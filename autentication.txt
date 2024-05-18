@@ -1,0 +1,19 @@
+Istruzioni per fare lautenticazione
+
+### composer require laravel/breeze --dev
+
+### php artisan breeze:install
+Vengono fatte delle domande
+
+Which Breeze stack would you like to install => Blade with Alpine
+Would you like dark mode support => no
+Which testing framework do you prefere => Pest 
+
+
+
+composer require pacificdev/laravel_9_preset
+
+
+php artisan preset:ui bootstrap --auth
+npm i
+npm run dev
